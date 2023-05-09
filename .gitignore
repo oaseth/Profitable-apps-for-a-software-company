@@ -5,4 +5,4 @@
 *.ini
 
 # Ignore all files or folders with this name
-.ipynb_checkpoints
+*.ipynb_checkpoints
