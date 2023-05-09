@@ -1,0 +1,8 @@
+# ignore all files with config.py in its name
+*config.py
+
+# ignore all .ini files
+*.ini
+
+# Ignore all files or folders with this name
+.ipynb_checkpoints
